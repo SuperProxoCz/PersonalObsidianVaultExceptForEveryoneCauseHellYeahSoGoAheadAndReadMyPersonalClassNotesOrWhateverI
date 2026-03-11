@@ -1,1 +1,1 @@
-# PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI
+Nyeheheh
