@@ -1,0 +1,13 @@
+# STUPID RUNTIME STUFF
+dotnet_mount/
+**/NuGetScratchroot/
+**/tmp/*/
+
+# STUPID OBSIDIAN STUFF
+.obsidian/workspace.json
+.obsidian/last-update.json
+.obsidian/plugins/obsidian-git/last-update.json
+
+# STUPID OS STUFF
+.DS_Store
+Thumbs.db
