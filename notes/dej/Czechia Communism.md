@@ -7,5 +7,12 @@ Gottwald got to work with his ally Minister Václav Nosek, to fire **all non-com
 
 **Feb 20. 48**: 12 non-communist ministers **resigned** in hopes to **force Gottwald to back down** or start new elections but that was a mistake as **less non-communist people were available to stop him**. 
 
-(To be fair this one's easy to remember cause of how delusional this decision was.)
+%% (To be fair this one's easy to remember cause of how delusional this decision was.) %%
+
+The people swarmed the streets in Prague with weapons that Gottwald armed them with, they created a big crowd that put a lot of pressure with the civil war.
+
+**Feb 25, 48**, Gottwald pressured the old President Edvard Beneš to accept a demission and let him take his place, this was the day he said his famous quote; 
+
+> **"Právě se vracím z Hradu od prezidenta republiky... mohu vám sdělit, že pan prezident všechny mé návrhy, přesně tak, jak byly podány, přijal."**
+
 
