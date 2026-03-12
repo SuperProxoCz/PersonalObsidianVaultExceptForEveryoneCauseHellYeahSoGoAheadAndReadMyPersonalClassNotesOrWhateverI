@@ -1,5 +1,9 @@
 
-**Active communism: February 25, 1948 – December 17, 1989**
+important stuff:
+**Active communism: February 25, 1948 – December 17, 1989
+**Klement Gottwald was the head of all this
+
+
 
 **After WWII**, Gottwald formed the National Front, which was a coalition of all "legal parties". He positioned them as patriots who helped spreading the word. **The 1946 elections** turned in their favor as they won a total of **48% votes!**
 
@@ -15,4 +19,4 @@ The people swarmed the streets in Prague with weapons that Gottwald armed them w
 
 > **"Právě se vracím z Hradu od prezidenta republiky... mohu vám sdělit, že pan prezident všechny mé návrhy, přesně tak, jak byly podány, přijal."**
 
-
+![[Pasted image 20260312192312.png]]
