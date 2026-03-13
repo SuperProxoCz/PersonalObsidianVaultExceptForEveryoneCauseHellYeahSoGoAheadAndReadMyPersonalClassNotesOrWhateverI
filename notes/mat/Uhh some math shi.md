@@ -1,3 +1,8 @@
+---
+subject: math
+theme: equations
+level of skill: no
+---
 ![[017 Vzorce a vynimanie pred zatvorku 04.png]][source](https://www.priklady.com/sk/index.php/algebraicke-vyrazy-a-mnohocleny/vzorce-pre-vyrazy-a-vynimanie-pred-zatvorku)
 
 ---
