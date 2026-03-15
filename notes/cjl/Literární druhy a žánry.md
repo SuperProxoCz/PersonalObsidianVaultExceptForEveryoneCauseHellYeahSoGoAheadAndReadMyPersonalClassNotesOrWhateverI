@@ -180,3 +180,7 @@ Japonská pětiveršová lyrická báseň.
 - Senrjú
 
 Podobné haiku, ale zaměřené spíše na lidské chování nebo humor.
+
+
+
+test
