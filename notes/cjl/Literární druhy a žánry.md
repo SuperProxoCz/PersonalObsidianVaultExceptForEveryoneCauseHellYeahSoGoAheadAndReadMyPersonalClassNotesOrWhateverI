@@ -3,7 +3,7 @@
 - Epika - Děj
 - Lyrika - Vyjádření autora jeho city nebo touhy/názory
 - Drama - Divadelní hraná hra
-  
+
 
 # Lyrické
 
