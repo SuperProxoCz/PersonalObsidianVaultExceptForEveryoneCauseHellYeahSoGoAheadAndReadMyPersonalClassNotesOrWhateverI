@@ -11,10 +11,14 @@
             "id": "d31faa2af8f2aa7a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/fyz/physics 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "physics 1"
             }
           }
         ]
@@ -164,6 +168,10 @@
   },
   "active": "2f0f78902ad58502",
   "lastOpenFiles": [
+    "notes/eko",
+    "notes/mat/Uhh some math shi.md",
+    "notes/fyz/physics 1.md",
+    "notes/fyz",
     "get"
   ]
 }
