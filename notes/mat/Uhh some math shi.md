@@ -116,8 +116,21 @@ $$p:x≠0$$
 ---
 $$\frac{x-√x}{√x}×\frac{√x}{√x}=\frac{x×√x-x}{x}$$
 $$\frac{x(√x-1)}{x}=√x-1$$
+---
+$$
+\frac{2}{³√4}×\frac{³√4²}{3√4²}=\frac{2×³√4²}{³√4³}=\frac{2×³√16}{4}=\frac{³√28}{2}=\frac{³√2}{2}=\frac{2×³√2}{³√2³}=³√2
+$$
+$$\frac{³√(a⁶×√(a³×b⁴))}{√(b⁵×³√a^-6}$$
+$$\frac{\sqrt{(a⁶×\sqrt[3]{a^{-6}×b³}})}{(b⁵×(a^{-6}×b³)^{\frac{1}{3}})^{\frac{1}{2}}}$$
+$$\frac{(a⁶)^{\frac{1}{3}}×((a³×b^{-1})^{\frac{1}{2}})^{\frac{1}{3}}}{(b⁵)^{\frac{1}{2}}×((a^{-6}×b^3)^{\frac{1}{3}})^{\frac{1}{2}}}$$
 
+---
 
+$$\frac{x-2}{3}\frac{-2x+3}{2}≤1$$
+$$2x-4-6x-9≤6$$
+$$-4x-5≤6$$
+$$-4x≤19$$
+$$x≥1/-19$$
 
 
 we are at the point where stuff breaks and no longer formats correctly when reopened ❤️
