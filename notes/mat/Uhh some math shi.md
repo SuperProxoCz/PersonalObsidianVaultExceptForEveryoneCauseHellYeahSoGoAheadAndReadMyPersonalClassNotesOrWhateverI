@@ -73,8 +73,54 @@ $$\frac{4x+1}{3}-$$
 ---
 
 
+test will be about:
+algebraic formulas
+
+$$a^2 - b^2 = (a - b)(a + b)$$
+$$(a + b)^2 = a^2 + 2ab + b^2$$
+$$(a - b)^2 = a^2 - 2ab + b^2$$
+$$(a + b)^3 = a^3 + 3a^2b + 3ab^2 + b^3$$
+
+
+$$\frac{x²-4y²}{x²-2xy}=\frac{(x-2y)(x+2y)}{x(x-2y)}=\frac{x+2y}{x}$$
+
+$$\frac{x+1}{x²-4}+\frac{x²-2}{2y-4}-\frac{x}{2}$$
+
+$$\frac{x+1}{(x-2)(x+2)}+\frac{x²-2}{2(x-2)}-\frac{x}{2}$$
+$$\frac{(2x+2) + (x^2-2)(2x+2) - x(x-2)(x+2)}{2(x-2)(x+2)}$$
+
+$$\frac{2x+2+x³+2x²-2x-4-x³+4x}{2(x-2)(x+2)}$$
+$$\frac{2x²+4x-2}{2(x+2)(x-2)}$$
+$$\frac{x²+2x-1}{(x+2)(x-2)}$$
+$$\frac{x²+2x-1}{x-2}$$
+$$x+4+\frac{7}{x-2}$$
+$$\frac{-(x²-2x)}{0+4x}$$
+$$\frac{(-4x-8)}{7}$$
+$$\frac{(2x³-3x²-5x-2)}{(x+3)}$$
+$$2x²×3=(2x³+6x²)$$
+$$\frac{(2x³-3x²-5x-2-(2x³+6x²))}{(x+3)}$$
+
+---
+
+$$(x⁴-2x³+3x-1):(x²+2)$$
+$$-(x⁴-2x³)$$
+$$(0-2x³-2x²+2x+1)$$
+$$-(-2x³-4x)$$
+$$-2x²+7x+1$$
+$$-(-2x²-4)$$
+$$7x+5$$
+---
+$$\frac{x}{√x}$$
+$$\frac{x}{√x}×\frac{√x}{√x}=√x$$
+$$p:x≠0$$
+---
+$$\frac{x-√x}{√x}×\frac{√x}{√x}=\frac{x×√x-x}{x}$$
+$$\frac{x(√x-1)}{x}=√x-1$$
+
+
 
 
 we are at the point where stuff breaks and no longer formats correctly when reopened ❤️
 tbf not my fault but please do not break again thank youuu
 
+$$\frac{x}{y}$$
