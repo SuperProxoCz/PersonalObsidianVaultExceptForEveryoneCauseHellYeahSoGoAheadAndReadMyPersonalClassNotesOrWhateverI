@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/eko/eko.md",
+                "file": "notes/ete/stř proud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "eko"
+              "title": "stř proud"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/mat/Uhh some math shi.md",
+            "file": "notes/ete/stř proud.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -169,8 +169,10 @@
   },
   "active": "a53fc820561427f0",
   "lastOpenFiles": [
-    "notes/mat/Uhh some math shi.md",
     "notes/eko/eko.md",
+    "notes/ete/stř proud.md",
+    "notes/ete",
+    "notes/mat/Uhh some math shi.md",
     "notes/fyz/physics 1.md",
     "notes/cjl/Literární druhy a žánry.md",
     "notes/inf/Informational Technology My Fav TM.md",
