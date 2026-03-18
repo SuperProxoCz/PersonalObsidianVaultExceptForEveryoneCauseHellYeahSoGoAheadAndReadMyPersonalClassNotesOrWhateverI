@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/mat/Uhh some math shi.md",
+                "file": "notes/eko/eko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uhh some math shi"
+              "title": "eko"
             }
           }
         ]
@@ -169,6 +169,7 @@
   },
   "active": "a53fc820561427f0",
   "lastOpenFiles": [
+    "notes/mat/Uhh some math shi.md",
     "notes/eko/eko.md",
     "notes/fyz/physics 1.md",
     "notes/cjl/Literární druhy a žánry.md",
@@ -182,7 +183,6 @@
     "notes/inf",
     "/notes",
     "notes/eko",
-    "notes/mat/Uhh some math shi.md",
     "notes/fyz",
     "get"
   ]
