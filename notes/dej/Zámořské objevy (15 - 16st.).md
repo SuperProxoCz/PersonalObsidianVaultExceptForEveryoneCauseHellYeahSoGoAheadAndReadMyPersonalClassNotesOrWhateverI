@@ -1,3 +1,6 @@
+---
+aliases:
+---
 ### důvody
 Turkové v Konstantinopoli - blokovali cestu do indie a azie
 Koření (pepř, petržel, skořice)
@@ -26,3 +29,4 @@ brambory, kukuřice, rajčata, papriky, kakao
 zlato, stříbro, kůže, dřevo
 koně, prasata, ovce, slepice
 kafe, cukrová třtina, obylí, hrozny, citrusy
+
