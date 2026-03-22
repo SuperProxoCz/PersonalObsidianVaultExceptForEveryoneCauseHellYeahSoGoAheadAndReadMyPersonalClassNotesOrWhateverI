@@ -1,4 +1,4 @@
-- úvod <br>
+<br>
 V čechách jsou novodobě velikonoce známé pro lov pro sladkosti a čokoládová vajíčka, zejména spíše velikonoční nadílka. Více symbolicky se tu však uchovávají zvyky jako např. hodování dívek pro mladost nebo pokropení mužů kýblem vody.
 
 
