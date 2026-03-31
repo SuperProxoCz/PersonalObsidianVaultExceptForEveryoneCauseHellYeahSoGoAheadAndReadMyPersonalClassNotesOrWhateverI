@@ -1,8 +1,17 @@
 # Welcome to the place where headaches are made
-This is my **amazing** place where i upload all my notes to keep them backed up and public, <br>
-For either my friends or for someone who really hates YouTube math tutorials. <br>
-Although i am czech and english is my 2nd language, i will still prefer it over anything cause its simple and fast to type in. <br>
-Hope this is helpful or makes you laugh, i really do try to make it funny here and there especially the commit names. <br>
-<br>
-Also no, most of the stuff i write down here is not me learning it for the first time, i just like to have notes and help people <br>
-from their non-helpful classmates with notes that can only be described as enchanting table language.
+[notes](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes)
+
+[ANJ](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/anj/)
+[CJL](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/cjl/)
+[CHE](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/che/)
+[DEJ](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/dej/)
+[EBI](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/ebi/)
+[EKO](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/eko/)
+[ELE](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/ele/)
+[FYZ](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/fyz/)
+[INF](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/inf/)
+[MAT](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/mat/)
+[NEJ](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/nej/)
+[PEK](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/pek/)
+[PRG](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/prg/)
+[TEV](https://github.com/SuperProxoCz/PersonalObsidianVaultExceptForEveryoneCauseHellYeahSoGoAheadAndReadMyPersonalClassNotesOrWhateverI/tree/main/notes/tev/)
