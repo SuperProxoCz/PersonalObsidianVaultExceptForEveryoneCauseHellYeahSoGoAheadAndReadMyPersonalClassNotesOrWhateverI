@@ -22,7 +22,7 @@ The people swarmed the streets in Prague with weapons that Gottwald armed them w
 
 other points:
 everyone was forced to learn Russian
-every private company was taken away by the government
+every private company was taken away by the government 
 STB propaganda
 
 
