@@ -1,0 +1,1 @@
+dynamicke ucinky 
