@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dej/dejepiss.md",
+                "file": "notes/dej/Czechia Communism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dejepiss"
+              "title": "Czechia Communism"
             }
           },
           {
@@ -55,29 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/dej/Velikonoční tradice u nás.md",
+                "file": "notes/cjl/giovanni boccacio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velikonoční tradice u nás"
-            }
-          },
-          {
-            "id": "cad94fb3b7174aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/fyz/physics 1 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "physics 1 1"
+              "title": "giovanni boccacio"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +155,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "notes/eko/eko.md",
+            "file": "notes/dej/Zámořské objevy (15 - 16st.).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,45 +210,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a53fc820561427f0",
+  "active": "d52173ef195a2f09",
   "lastOpenFiles": [
-    "notes/dej/Velikonoční tradice u nás.md",
-    "notes/dej/dejepiss.md",
-    "notes/ete.md",
-    "notes/ebi/ebi 1.md",
-    "notes/Untitled.md",
+    "notes/dej/Zámořské objevy (15 - 16st.).md",
+    "notes/cjl/giovanni boccacio.md",
+    "notes/eko/eko.md",
+    "FBI/ebi.md",
+    "notes/eko/Untitled",
+    "FBI",
     "notes/ebi",
-    "notes/Ebi",
-    "notes/fyz/physics 1 1.md",
-    "notes/dej/Czechia Communism.md",
-    "notes/inf/fyz/physics 1.md",
-    "notes/fyz/Fyz.md",
-    "Untitled 1.md",
-    "Pasted image 20260324100803.jpg",
-    "notes/che/che.md",
-    "/notes/dej/Velikonoční tradice u nás.md",
-    "/notes/dej",
-    "/notes/inf/fyz/physics 1.md",
-    "/notes/cjl/Czech Chronica.md",
-    "notes/cjl/Czech Chronica.md",
-    "/notes/cjl",
-    "/notes/inf/fyz",
-    "notes/inf/fyz",
-    "/notes/inf",
-    "/notes/fyz",
-    "/notes",
     "notes/mat/Uhh some math shi.md",
-    "notes/che",
     "komunismus.md",
     "Untitled.md",
-    "notes/eko/eko.md",
+    "notes/dej/Czechia Communism.md",
+    "notes/dej/Velikonoční tradice u nás.md",
     "notes/ete/stř proud.md",
+    "notes/ete",
     "notes/fyz/physics 1.md",
     "notes/cjl/Literární druhy a žánry.md",
     "notes/inf/Informational Technology My Fav TM.md",
     "Pasted image 20260316203429.png",
     "/notes/inf/Informational Technology My Fav TM.md",
     "/notes/cjl/Literární druhy a žánry.md",
-    "/Pasted image 20260316203429.png"
+    "/notes/cjl",
+    "/Pasted image 20260316203429.png",
+    "/notes/inf",
+    "notes/inf",
+    "/notes",
+    "notes/eko",
+    "notes/fyz"
   ]
 }
